@@ -1,17 +1,19 @@
-# Modulo 2: Formulas e Funcoes Essenciais
+# Módulo 2: Fórmulas e Funções Essenciais
 
-Este modulo foca na criacao de calculos dinamicos e na utilizacao de funcoes integradas para analise de dados, utilizando as melhores praticas de sintaxe e controle de operacoes no Excel.
+Este módulo foca na criação de cálculos dinâmicos e na utilização de funções integradas para análise de dados, utilizando as melhores práticas de sintaxe e controle de operações no Excel.
 
 ## Objetivos de Aprendizado
-* Criacao de formulas manuais utilizando operadores aritmeticos basicos.
-* Compreensao da ordem de precedencia matematica e utilizacao de parenteses.
-* Aplicacao de referencias relativas e referencias absolutas utilizando o cifrao.
-* Utilizacao das cinco funcoes principais do Excel via AutoSoma e Inserir Funcao.
-* Implementacao de calculos de porcentagem e margem de lucro.
+* Criação de fórmulas manuais utilizando operadores aritméticos básicos.
+* Compreensão da ordem de precedência matemática e utilização de parênteses.
+* Aplicação de referências relativas e referências absolutas utilizando o cifrão.
+* Utilização das cinco funções principais do Excel via AutoSoma e Inserir Função.
+* Implementação de cálculos de porcentagem e margem de lucro.
 
 ## Principais Conceitos Explorados
-* **Ordem de Precedencia:** Controle do fluxo de calculos (multiplicacao e divisao antes de adicao e subtracao).
-* **Referencias Absolutas ($):** Fixacao de celulas especificas para permitir a replicacao de formulas sem erros de deslocamento.
-* **Funcoes de Agregacao:** Utilizacao de SOMA, MEDIA, CONTAGEM, MAXIMO e MINIMO para resumo de grandes conjuntos de dados.
-* **Busca e Referencia:** Introducao a combinacao das funcoes INDICE e CORRESP para busca dinamica de valores em matrizes.
-* **Calculos de Negocio:** Aplicacao de markup para definicao de preco de varejo e calculo de margem de lucro global.
+* **Ordem de Precedência:** Controle do fluxo de cálculos (multiplicação e divisão antes de adição e subtração).
+
+* **Referências Absolutas ($):** Fixação de células específicas para permitir a replicação de fórmulas sem erros de deslocamento.
+* **Funções de Agregação:** Utilização de SOMA, MÉDIA, CONTAGEM, MÁXIMO e MÍNIMO para resumo de grandes conjuntos de dados.
+* **Busca e Referência:** Introdução à combinação das funções ÍNDICE e CORRESP para busca dinâmica de valores em matrizes.
+
+* **Cálculos de Negócio:** Aplicação de markup para definição de preço de varejo e cálculo de margem de lucro global.
