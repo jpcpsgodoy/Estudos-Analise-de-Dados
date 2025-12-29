@@ -1,16 +1,18 @@
-# Modulo 1: Interface e Fundamentos do Excel
+# Módulo 1: Interface e Fundamentos do Excel
 
-Este modulo foca na ambientacao com a interface do Microsoft Excel e nos fundamentos de manipulacao de dados e organizacao de planilhas, utilizando o estudo de caso da Adventure Works.
+Este módulo foca na ambientação com a interface do Microsoft Excel e nos fundamentos de manipulação de dados e organização de planilhas, utilizando o estudo de caso da Adventure Works.
 
 ## Objetivos de Aprendizado
-* Navegacao e utilizacao da Faixa de Opcoes (Ribbon).
-* Identificacao e manipulacao de linhas, colunas, celulas e intervalos.
-* Entrada e edicao de diferentes tipos de dados (Texto, Numeros e Datas).
-* Formatacao basica de celulas para melhor visualizacao de dados financeiros.
-* Gerenciamento de planilhas dentro de um unico livro de trabalho (Workbook).
+* Navegação e utilização da Faixa de Opções (Ribbon).
+* Identificação e manipulação de linhas, colunas, células e intervalos.
+* Entrada e edição de diferentes tipos de dados (Texto, Números e Datas).
+* Formatação básica de células para melhor visualização de dados financeiros.
+* Gerenciamento de planilhas dentro de um único livro de trabalho (Workbook).
 
 ## Principais Conceitos Explorados
-* **Formatacao de Dados:** Aplicacao de formatos de Moeda e Contabilidade para dados de vendas.
-* **Ajuste de Estrutura:** Redimensionamento de colunas e linhas para adequacao do conteudo.
-* **Preenchimento Automatico:** Utilizacao da alca de preenchimento para series de dados e meses do ano.
-* **Organizacao de Worksheets:** Renomear, mover e colorir abas para facilitar a navegacao em relatorios complexos.
+* **Formatação de Dados:** Aplicação de formatos de Moeda e Contabilidade para dados de vendas.
+
+* **Ajuste de Estrutura:** Redimensionamento de colunas e linhas para adequação do conteúdo.
+* **Preenchimento Automático:** Utilização da alça de preenchimento para séries de dados e meses do ano.
+
+* **Organização de Worksheets:** Renomear, mover e colorir abas para facilitar a navegação em relatórios complexos.
