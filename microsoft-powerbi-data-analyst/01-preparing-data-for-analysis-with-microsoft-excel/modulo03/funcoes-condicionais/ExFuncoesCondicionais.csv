@@ -1,0 +1,16 @@
+Pricing Sheet,,Delivery Charges,,,,Total Sales by Region,,,,,,
+,,Region A,50,,,Region A," $40,382.50 ",,,,,
+,,Region B,75,,,Region B," $35,100.00 ",,,,,
+,,Region C,100,,,Region C," $21,350.00 ",,,,,
+,,,,,,,,,,,,
+Stock Code,Category,Type,Supplier,Cost per Unit,Quantity Ordered,Subtotal,Discount Rate,Discount Amount,Delivery Region,Total (excluding delivery),Delivery Charge,Total (Including Delivery)
+BT108,Tyres,Tubular,Tyresaz, $21.00 ,750," $15,750.00 ",10%," $1,575.00 ", B ," $14,175.00 ", $75.00 ," $14,250.00 "
+BT109,Tyres,Clincher,Tyresaz, $21.00 ,300," $6,300.00 ",0%, $-   , A ," $6,300.00 ", $50.00 ," $6,350.00 "
+SC224,Frames,A2Mountain,Imortadores Neptuno, $95.00 ,150," $14,250.00 ",10%," $1,425.00 ", A ," $12,825.00 ", $50.00 ," $12,875.00 "
+SC225,Frames,14City,Imortadores Neptuno, $115.00 ,100," $11,500.00 ",10%," $1,150.00 ", C ," $10,350.00 ", $100.00 ," $10,450.00 "
+JF187,Gear Components,derailleurs,Z123, $21.00 ,500," $10,500.00 ",10%," $1,050.00 ", B ," $9,450.00 ", $75.00 ," $9,525.00 "
+JF188,Gear Components,belt drives,Z123, $21.00 ,675," $14,175.00 ",10%," $1,417.50 ", A ," $12,757.50 ", $50.00 ," $12,807.50 "
+SN306,Saddles,All Weather,Sadleab, $24.00 ,250," $6,000.00 ",0%, $-   , C ," $6,000.00 ", $100.00 ," $6,100.00 "
+SN307,Saddles,Racing,Sadleab, $20.00 ,250," $5,000.00 ",0%, $-   , C ," $5,000.00 ", $100.00 ," $5,100.00 "
+BS509,Brake Systems,Levers,Cylesaz, $17.00 ,500," $8,500.00 ",0%, $-   , A ," $8,500.00 ", $50.00 ," $8,550.00 "
+BS510,Brake Systems,Cables,Cylesaz, $17.00 ,750," $12,750.00 ",10%," $1,275.00 ", B ," $11,475.00 ", $75.00 ," $11,550.00 "
