@@ -18,8 +18,3 @@ Este curso integra o Microsoft Power BI Analyst Professional Certificate e foca 
 
 
 
-## Estrutura de Módulos
-* **Módulo 01:** O papel do analista de dados e a produção de informações nas organizações.
-* **Módulo 02:** O ecossistema Microsoft Power BI e as competências necessárias para a função.
-* **Módulo 03:** Etapas do processo de análise de dados aplicadas ao Power BI.
-* **Módulo 04:** Componentes da plataforma e tarefas práticas do analista de dados.
