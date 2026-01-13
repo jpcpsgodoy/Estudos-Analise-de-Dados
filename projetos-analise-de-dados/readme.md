@@ -11,3 +11,5 @@ Os projetos presentes nesta pasta incluem atividades introdutórias e exercício
 
 - **Using Basic Formulas and Functions in Microsoft Excel - Coursera**
   Projeto prático desenvolvido no Coursera com foco na aplicação de fórmulas e funções básicas do Excel para análise de dados de vendas. Foram utilizados recursos como funções de soma, média, porcentagem, ÚNICO e SOMASE para organizar informações, agrupar dados por modelo, cor e mês, além de calcular totais e indicadores de desempenho. O projeto teve como objetivo reforçar o uso do Excel como ferramenta de apoio à análise de dados, permitindo automatizar cálculos e gerar informações consolidadas de forma simples e eficiente.
+
+- **Conditional Formatting, Tables and Charts in Microsoft Excel - Coursera**
