@@ -14,3 +14,6 @@ Os projetos presentes nesta pasta incluem atividades introdutórias e exercício
 
 - **Conditional Formatting, Tables and Charts in Microsoft Excel - Coursera**
   Projeto desenvolvido no Coursera com foco na organização e análise visual de dados de vendas por meio do uso de tabelas, formatação condicional, Tabelas Dinâmicas e gráficos. Foram aplicadas regras de formatação condicional para identificar vendedores com baixo desempenho, destacar os valores do top 15% e representar o progresso por meio de escalas de cores. Também foram criadas Tabelas Dinâmicas para resumir as vendas por trimestre e por região, além de gráficos de linhas para acompanhar a evolução dos resultados e gráficos de colunas para visualizar a distribuição de vendedores por faixas percentuais de desempenho, reforçando o uso do Excel como ferramenta de apoio à análise e comunicação de dados.
+
+- **Create Charts and Dashboards Using Microsoft Excel - Coursera**
+
