@@ -6,7 +6,7 @@ Os projetos presentes nesta pasta incluem atividades introdutórias e exercício
 
 ## Lista de projetos
 
-- **[Getting Started with Microsoft Excel - Coursera](create-charts-and-dashboards-using-microsoft-excel)** 
+- **[Getting Started with Microsoft Excel - Coursera](getting-started-with-microsoft-excel)** 
   Projeto introdutório desenvolvido no Coursera, com foco na apresentação do Microsoft Excel, formatação de dados e criação de fórmulas simples em planilhas.
 
 - **[Using Basic Formulas and Functions in Microsoft Excel - Coursera](using-basic-formulas-and-functions-in-microsoft-excel)** 
